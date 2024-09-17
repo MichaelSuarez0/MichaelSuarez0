@@ -1,9 +1,9 @@
-# Hola 👋 soy Michael Suárez, bienvenido a mi repositorio!
-## Bachiller en Ciencia Política, Data Scientist de corazón 
+## Hola 👋 soy Michael Suárez, bienvenido a mi repositorio!
+### Bachiller en Ciencia Política, Data Scientist de corazón 
 
 ![GitHub Followers](https://img.shields.io/github/followers/MichaelSuarez0?style=social)
 
-## 👨‍💻 Resumen de ChatGPT
+### 👨‍💻 Resumen de ChatGPT
 
 - 🎓 Bachiller en **Ciencia Política y Gobierno** de la **Pontificia Universidad Católica**.
 - 🎓 Diplomado en **Data Science para la Gestión Pública**
