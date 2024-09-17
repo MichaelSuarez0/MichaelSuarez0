@@ -1,7 +1,10 @@
-## Hola 👋 soy Michael Suárez, bienvenido a mi repositorio!
-### Bachiller en Ciencia Política, Data Scientist de corazón 
+# Hola 👋 soy Michael Suárez, bienvenido a mi repositorio!
+### Bachiller en Ciencia Política
+### Data Scientist de corazón 
+
 
 ![GitHub Followers](https://img.shields.io/github/followers/MichaelSuarez0?style=social)
+
 
 ### 👨‍💻 Resumen de ChatGPT
 
