@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola 👋 soy Michael Suárez, bienvenido a mi repositorio!
+## Bachiller en Ciencia Política, Data Scientist de corazón 
 
-<!--
-**MichaelSuarez0/MichaelSuarez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Followers](https://img.shields.io/github/followers/MichaelSuarez0?style=social)
 
-Here are some ideas to get you started:
+## 👨‍💻 Resumen de ChatGPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachiller en **Ciencia Política y Gobierno** de la **Pontificia Universidad Católica**.
+- 🎓 Diplomado en **Data Science para la Gestión Pública**
+- 🌱 Manejo los lenguajes **Python** y **R** (un poco de Stata)
+- 📊 Me apasiona la automatización de procesos administrativos
+
+
