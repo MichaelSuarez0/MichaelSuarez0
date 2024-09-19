@@ -15,9 +15,9 @@ Estudié en la Pontificia Universidad Católica del Perú. Cursé el diplomado d
 
 
 ### Habilidades generales:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010): Intermedio
-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010) : Intermedio
-- ![Stata](https://img.shields.io/badge/Stata-1E90FF?style=for-the-badge&labelColor=101010): Básico
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)()
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)()
+![Stata](https://img.shields.io/badge/Stata-1E90FF?style=for-the-badge&labelColor=101010)
 
 
 ### Habilidades específicas:
