@@ -4,7 +4,9 @@ Estudié en la Pontificia Universidad Católica del Perú. Cursé el diplomado d
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/MichaelSuarez0?style=social)
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=$.count&url=https://api.countapi.xyz/hit/MichaelSuarez0/profile-views)
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MichaelSuarez0">
+</a>
 
 ### 👨‍💻 Resumen personal
 
