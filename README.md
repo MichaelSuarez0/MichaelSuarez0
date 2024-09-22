@@ -6,10 +6,7 @@ Estudié en la Pontificia Universidad Católica del Perú. Cursé el diplomado d
 <a href="https://github.com/MichaelSuarez0?tab=followers">
     <img src="https://img.shields.io/github/followers/MichaelSuarez0?label=Followers&style=social" alt="GitHub Badge">
 </a>
-</a><br>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MichaelSuarez0">
-</a>
+
 
 ### 👨‍💻 Resumen personal
 
@@ -31,3 +28,6 @@ Estudié en la Pontificia Universidad Católica del Perú. Cursé el diplomado d
 - Machine Learning: Implementación de algoritmos de aprendizaje supervisado. 
 - Redes Neuronales: Diseño y entrenamiento de arquitecturas de deep learning.
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MichaelSuarez0">
+</a>
