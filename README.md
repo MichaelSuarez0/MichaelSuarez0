@@ -9,7 +9,6 @@ I'm passionate about contributing to the **automation of government processes** 
     <img src="https://img.shields.io/github/followers/MichaelSuarez0?label=Followers&style=social" alt="GitHub Badge">
 </a>  
 
----
 
 ### 👨‍💻 Personal Summary  
 
@@ -18,14 +17,12 @@ I'm passionate about contributing to the **automation of government processes** 
 - 🌱 Proficient in **Python** and **R** (with some experience in Stata)  
 - 📊 Passionate about **automating administrative processes**  
 
----
 
 ### **General Skills**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)  
 ![Stata](https://img.shields.io/badge/Stata-1E90FF?style=for-the-badge&labelColor=101010)  
 
----
 
 ### **Specific Skills**  
 - **Database Management & Transformation**
