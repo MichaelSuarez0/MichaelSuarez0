@@ -1,7 +1,7 @@
 ## Hi 👋 Welcome to my repository!  
 
 ### I'm Michael Suárez, a Political Science graduate, but a Data Scientist at heart.  
-I studied at the **Pontificia Universidad Católica del Perú**. I completed a **Diploma in Data Science for Public Management** at the **Artificial Intelligence and Computational Methods in Social Sciences Laboratory (QLAB)** at the same university. Additionally, I have pursued a variety of online courses in programming to further enhance my expertise.
+I studied at the **Pontificia Universidad Católica del Perú**. I completed a **Diploma in Data Science for Public Management** at the **Artificial Intelligence and Computational Methods in Social Sciences Laboratory (QLAB)** at the same university. Additionally, I have pursued a variety of online courses in programming to further enhance my expertise, especially in **Python**.
 
 I'm passionate about contributing to the **automation of government processes** and bringing **technological innovation** to areas that need it. My goal is to **free individuals from tedious, repetitive tasks** so they can focus on activities that foster **critical thinking, continuous learning, and creativity**—the very things that make us human.  
 
@@ -28,12 +28,13 @@ I'm passionate about contributing to the **automation of government processes** 
 
 
 ### **Specific Skills**  
-- **Database Management & Transformation**
-- **Object-Oriented Programming (OOP)** paradigm to ensure modularity and reusability.
-- **RPA (Robotic Process Automation)**: Design, implementation, and optimization of automated workflows for repetitive tasks using **Playwright**. 
-- **Natural Language Processing (NLP)**: Sentiment analysis, word clouds, and document classification.  
-- **Machine Learning**: Implementation of supervised learning algorithms.  
-- **Neural Networks**: Design and training of deep learning architectures.  
+- **Object-Oriented Programming (OOP)** paradigm to ensure modular and reusable code.
+- **Database Management & Transformation** with *pandas* and *sqlite*.
+- **Automated Excel Reporting**: Specialized in template-based report generation with dynamic charts with *xlsxwriter*.
+- **Webscraping**: Data extraction from websites using *BeautifulSoup*, *Scrapy*, and *Playwright*.
+- **RPA (Robotic Process Automation)**: Design, implementation, and optimization of automated workflows for repetitive tasks using *Playwright*.
+- **Natural Language Processing (NLP)**: Sentiment analysis, word clouds, and document classification with *wordcloud*, *nltk* and *spacy*.
+- **Machine Learning**: Implementation of supervised learning algorithms with *scikit-learn*.
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
